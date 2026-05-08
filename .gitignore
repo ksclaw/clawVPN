@@ -140,3 +140,4 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 !.vscode/settings.json
 /Android-kotlin-Code/core/.cxx
+/.android_sdk
